@@ -2,6 +2,6 @@
 All about Data Structure and Algorithms
 
 All instrunction will be provided in files with comments. 
-Check out all files to get details.
+Check out all files to get details and examples.
 
 Happy Coding :)
